@@ -22,8 +22,8 @@ Open a terminal and run:
 
 ```sh
 sudo apt install python3-pip
-pip3 install roboticstoolbox-python
-pip3 install sympy
+python -m pip3 install roboticstoolbox-python
+python -m pip3 install sympy
 ```
 
 Check the following sources:
